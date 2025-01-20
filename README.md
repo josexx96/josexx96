@@ -1,18 +1,16 @@
-# ¡Hola! Soy Jose 👋
+# 👋 ¡Hola, soy Jose! 
 
-Soy estudiante de **Seguridad Informática** y programador en proceso de aprendizaje. Estoy interesado en:
+🎓 Estudiante de Ingeniería en Seguridad Informática y apasionado por la programación y el desarrollo de software.
 
-- 🌐 **Blockchain y Web3:** Explorando tecnologías como Starknet y OnlyDust.
-- 🖥️ **Desarrollo de Software:** Me encanta trabajar en proyectos de programación.
-- 📚 **Aprendizaje continuo:** Siempre estoy buscando mejorar mis habilidades.
+🌟 **Objetivos**:
+- Convertirme en desarrollador full-stack.
+- Crear un juego de tipo battle royale como mi proyecto soñado.
 
-## 🚀 Tecnologías que estoy aprendiendo:
-- Python, JavaScript, C#.
-- Desarrollo Web (HTML, CSS, React).
-- Conceptos básicos de blockchain y contratos inteligentes.
+💻 **Tecnologías**:
+- Lenguajes: HTML, CSS, JavaScript, Python.
+- Frameworks: React, Vue (en aprendizaje).
 
-## 🌱 Actualmente:
-- Aplicando a proyectos en OnlyDust para desarrollar mis habilidades.
-- Construyendo pequeños proyectos para aprender.
+📫 **Conecta conmigo**:
+- 🖥️ [Portafolio](https://josexx96.github.io/)
+- ✉️ Email: jose-manuel-rojo@outlook.com
 
-¡Estoy emocionado de conectar y colaborar en proyectos!
